@@ -1,36 +1,54 @@
-#EXTINF:-1,ES: M+ GOLF 2
+#EXTM3U
+#EXTINF:-1 tvg-logo=""  group-title="Golf",ES: M+ GOLF 2
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/58727
-#EXTINF:-1,FR: GOLF+
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",FR: GOLF+
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/624
-#EXTINF:-1,FR: GOLF Channel
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",FR: GOLF Channel
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/121252
-#EXTINF:-1,PL: GOLF CHANNEL
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",PL: GOLF CHANNEL
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/953
-#EXTINF:-1,IT: SKY SPORT GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",IT: SKY SPORT GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/1055
-#EXTINF:-1,NL: ZIGGO SPORT GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",NL: ZIGGO SPORT GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/1272
-#EXTINF:-1,UK: VIP SKY SPORTS GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",UK: VIP SKY SPORTS GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/1669
-#EXTINF:-1,UK: VIP SUPER SPORT GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",UK: VIP SUPER SPORT GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/1697
-#EXTINF:-1,CZ: GOLF CHANNEL
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",CZ: GOLF CHANNEL
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/2195
-#EXTINF:-1,SWE: VIASAT GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",SWE: VIASAT GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/2269
-#EXTINF:-1,EX-YU: SPORT KLUB GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",EX-YU: SPORT KLUB GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/3598
-#EXTINF:-1,AF: VIP SUPERSPORT GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",AF: VIP SUPERSPORT GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/4429
-#EXTINF:-1,GLOBAL: VIP SKY SPORTS GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",GLOBAL: VIP SKY SPORTS GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/97199
-#EXTINF:-1,USA: VIP GOLF CHANNEL
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",USA: VIP GOLF CHANNEL
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/5648
-#EXTINF:-1,USA: VIP NBC GOLF CHANNEL
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",USA: VIP NBC GOLF CHANNEL
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/6276
-#EXTINF:-1,USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/6298
-#EXTINF:-1,IN: TEN GOLF
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",IN: TEN GOLF
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/7358
-#EXTINF:-1,MY: GOLF CHANNEL
+
+#EXTINF:-1 tvg-logo=""  group-title="Golf",MY: GOLF CHANNEL
 http://vipfortic.top:8080/VIP0155170939152354/9f6c689954f6/34613
