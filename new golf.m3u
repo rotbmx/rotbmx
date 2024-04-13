@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",MOVISTAR GOLF
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w1467262774.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",GOLF KINGDOM
+ttps://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",GOLF NETWORK
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",GOLF+
+http://pro.xviptv.com:25443/live/178453312B/97R8367HD7/271126.ts
+
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",GOLF CHANNEL
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",SKY SPORT GOLF
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",NBC GOLF (プレミアム)
+https://content.uplynk.com/channel/e96a493bab54440cb901dcccfc3cfb04.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="GOLF(UGIETV)",TEST
+https://30a-tv.com/feeds/vidaa/golf.m3u8
